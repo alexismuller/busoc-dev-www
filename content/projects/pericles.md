@@ -42,7 +42,8 @@ date = "2018-06-27"
 
 * PERICLES project used SOLAR as its space case as well as other space experiments on earth observation..
 * The PERICLES consortium was composed essentially of IT partners with B.USOC as partner for the space case and the Tate Gallery for a media case.
-* PERICLES had made the inventory of the available SOLAR data; these data included all documents produced during SOLAR operations, ancillary data and the entire science data stream. PERICLES also included the scientific data and products derived by the Principal Investigators from the raw data which B.USOC transferred to their UHB’s.
+* PERICLES had made the inventory of the available SOLAR data; these data included all documents produced during SOLAR operations, ancillary data and the entire science data stream.
+* PERICLES also included the scientific data and products derived by the Principal Investigators from the raw data which B.USOC transferred to their UHB’s.
 * The final objective of PERICLES was to make this data set reusable independently of both B.USOC and the current science teams.
 * Final demonstration of the PERICLES tools for space data were on the METEOSAT cloud optical thickness data which were fully available in agreement with the METEOSAT data policy.
 * PERICLES deviated from the OAIS (Open Archiving Information System) standard model by using the LRM (Linked Resource Model), this model allowed greater flexibility and could accommodate semantic change and new science objectives, it was thus preparing the concept of an Advanced Data Management Plan for the future exploration programme of ESA.
