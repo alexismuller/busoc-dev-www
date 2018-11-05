@@ -109,7 +109,7 @@ The B.USOC made a 19 minutes video film on the mission itself as well as on the 
 
 After the mission, an educational video tape was made by the Science Policy Office with contributions from the B.USOC.
 
-Scientific Programme
+Scientific programme
 ===========================
 
 The scientific programme during the OdISSea mission was the most important realized during a Soyuz Taxi-flight. The programme was realized in the US laboratory Destiny for the experiments performed in the MSG and in Russian segment for the other experiments.
