@@ -1,7 +1,7 @@
 +++
 weight=0
 title = "EANA"
-date = "2018-06-27"
+date = "2018-11-05"
 +++
 
  <table class="table table-striped table-bordered">

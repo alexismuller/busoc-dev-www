@@ -1,7 +1,7 @@
 +++
 weight=0
 title = "TOSCA"
-date = "2017-02-27"
+date = "2018-11-05"
 +++
 
 
@@ -42,7 +42,7 @@ date = "2017-02-27"
 COST actions: COST –ES 10005 (TOSCA) “Towards a more complete assessment of the impact of solar variability on the Earth’s climate”.
 
 
-This action increased the visibility of SOLAR as requested by ESA and allowed the participation of B.USOC to IPCC both as science expert and support to the government review led by BELSPO. 
+This action increased the visibility of SOLAR as requested by ESA and allowed the participation of B.USOC to IPCC both as science expert and support to the government review led by BELSPO.
 
 
 See also
