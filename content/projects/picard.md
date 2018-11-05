@@ -22,7 +22,7 @@ date = "2018-06-27"
                     <th>Discipline</th>
                     <td>
                             Space Sciences
-                    
+
                     </td>
                 </tr>
                 <tr>
@@ -50,13 +50,13 @@ The science operations centre for Picard (CMS-P) was operated by the B.USOC. Its
 History
 =============================
 
-The Sun and its impact on Earth’s climate is a topic of prime importance. The Picard project was first proposed in 1998 by the Aeronomy laboratory of the French national scientific research centre (SA/CNRS). On 3 December 2004, the CNES (Centre National d'Etudes Spatiales) Board of Directors decided to authorize this project frozen since 30 April 2003, in line with the recommendations of its Science Programmes Committee. It will go live in 2008.
+The Sun and its impact on Earth's climate is a topic of prime importance. The PICARD project was first proposed in 1998 by the Aeronomy laboratory of the French national scientific research centre (SA/CNRS). On December 3rd 2004, the CNES (Centre National d'Etudes Spatiales) Board of Directors decided to authorize this project frozen since April 30 2003, in line with the recommendations of its Science Programme Committee. Il will go live in 2008.
 
-Picard is a CNES Myriade microsatellite that will precisely measure the Sun’s diameter and its variations, as well as solar irradiance, with the twofold aim of learning more about how the Sun affects Earth’s climate and studying its physics and inner structure.
+Picard was a CNES Myriade microsatellite that measured the Sun's diameter and its variations, as well as solar irradiance, with the twofold aim of learning more about how the Sun affects Earth's climate and studying its physics and inner structure.
 
-Initially scheduled for 2003, Picard has been launched 15 June 2010 at the start of the next solar cycle, on a scheduled two-year mission. The microsatellite’s payload will comprise:
+Initially scheduled for 2003, Picard had been launched on June 15th 2010 at the start of the next solar cycle, on a scheduled two-year mission. The microsatellite's payload comprised:
 
-* an imaging telescope (developed by SA/CNRS) capable of measuring the Sun’s shape and diameter to within a few milliarcseconds
+* an imaging telescope (developed by SA/CNRS) capable of measuring the Sun’s shape and diameter to within a few billion seconds
 * a suite of three photometers and radiometers (Swiss PREMOS 2 instruments) to study ozone and solar oscillations
 * a differential radiometer (Belgian SOVAP instrument) to measure total solar irradiance
 
@@ -86,5 +86,3 @@ See also
 ================
 
 [Solar] (/projects/solar/)
-
-
