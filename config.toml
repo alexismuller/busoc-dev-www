@@ -1,0 +1,385 @@
+# hostname (and path) to the root eg. https://appernetic.github.io/
+baseurl = "http://www.mistraldesign.be/www.busoc.be/"
+title = "Belgian User Support and Operations Centre"
+copyright = "Copyright (c) 1998 - 2017, B.USOC"
+
+# Remark if you want to disable multilingual support.
+DefaultContentLanguage = "en"
+
+# If you want all of the languages to be put below their respective language code,
+# enable DefaultContentLanguageInSubdir = true. Without enabling it english content
+# will be in the root and other languages in their respective subfolder such as /sv/.
+# See [Languages] settings at the end of this file.
+
+DefaultContentLanguageInSubdir = false
+
+# Use this languageCode if it's not a multilingual site and also remove all language blocks and menus in the language sections to disable multilingual support.
+# language blocks.
+# Language
+#languageCode = "encut
+
+# SES friendly url:s
+canonifyurls = true
+
+# Frontmatter format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
+# Pagination
+paginate = 4
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = ""
+googleAnalytics = ""
+
+[permalinks]
+post = "/:filename/"
+code = "/:filename/"
+
+[taxonomies]
+tag = "tags"
+topic = "topics"
+category="categories"
+
+[author]
+name = "B.USOC"
+email = "social_media@busoc.be"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+
+[params.theme]
+name = "paper"
+
+[params.popover]
+# This is a highly configurable popover form.
+enablepopover = false #enable or disable popover: true/false.
+posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
+headerimage = "//placehold.it/1000x600"
+expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
+cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
+signupheader = "Join Our Newsletter"
+showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+mouseleave = true #show popover when mouse leaves window: true/false.
+modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
+imagedescription = "Placeholder image for this popover modal optin form"
+signuptext = "Signup today for free and be the first to get notified on new updates."
+inputplaceholder = "Enter your email"
+submitbutton = "Subscribe"
+successmessage = "Thanks for your subscription!"
+errormessage = "Submitting form failed!"
+optin = true #opt-in: true/false
+
+# menu for changing language. This changes languages with js and stores the choice with the help of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the md files needs to have the same name for each language abbreviation to work correctly. Example: showcase.en.md and showcase.sv.md. It only works if 
+DefaultContentLanguageInSubdir = true
+switchlang = true
+# You can use markdown here.
+BrandImage = "http://blog.appernetic.io/images/apperneticlogo.png" #top header brand image.
+brand = "B.USOC" # brand image alt text.
+topline = "few words about your site"
+footline = "code with <i class='fa fa-heart'></i>"
+
+customJS = []
+customCSS = ["/css/style_custom.css"]
+
+# Text for the top menu link, which goes to the root URL for the site.
+# Default (if omitted) is "Home".
+home = "home"
+
+mailmunchid = "" # Mailmunch site id
+sumomeid = "" # Sumome id
+mathjax = "2.7.1" # cdnjs hosted version; empty string to disable mathjax
+
+# Show a sidebar menu
+showRightSidebar = true
+# Select a syntax highlight.
+# Check the static/css/highlight directory for options.
+highlight = "default"
+
+# Google Analytics.
+googleAnalytics = "Your Google Analytics tracking code"
+
+# Sidebar social links.
+github = "" # Your Github profile ID
+bitbucket = "" # Your Bitbucket profile ID
+linkedin = "" # Your LinkedIn profile ID (from public URL)
+googleplus = "" # Your Google+ profile ID
+facebook = "" # Your Facebook profile ID
+twitter = "Busoc_official" # Your Twitter profile ID
+youtube = ""  # Your Youtube channel ID
+flattr = ""  # populate with your flattr uid
+
+[blackfriday]
+angledQuotes = true
+fractions = false
+hrefTargetBlank = false
+latexDashes = true
+plainIdAnchors = true
+extensions = []
+extensionmask = []
+
+# Menus
+# If you want active menu items highlighted for internal pages don't add them here, they need to be added in each files front matter.
+# like this:
+#[menu]
+#     [menu.main]
+#        name = "Showcase"
+#        weight = 3
+#        identifier = "showcase"
+# i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+#[[Languages.sv.menu.switchlang]]
+#  name = "English"
+#  identifier = ""
+#  weight = 4
+#  url = "en"
+
+
+
+
+
+
+[params]
+    viewMorePostLink = "/news/"
+    author = "B.USOC"
+    defaultKeywords = ["devows", "hugo", "go"]
+    defaultDescription = "Site template made by devcows using hugo"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "social.@busoc.be"
+
+    about_us = "<p>B.USOC is a services centre of the Belgian Science Policy (BELSPO)/R&S division. Our mission is to provide operational services for Belgian scientific institutions and space agencies.</p>"
+    copyright = "Copyright B.USOC 1997 - 2017 ; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+latitude = "50.7987493"
+longitude = "4.3565892,17"
+direction = "BUSOC, 3 avenue circulaire 1180, Uccle"
+    logo = "img/busoc_logo.png"
+    address = """<p><strong>B.USOC</strong>
+        <br>3 avenue circulaire
+        <br>1180-Uccle
+        <br>Brussels
+        <br>
+        <strong>Belgium</strong>
+      </p>
+      """
+
+
+[Permalinks]
+    blog = "/news/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">B.USOC - Belgian User Support and Operations Centre</p>
+      
+      
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+
+
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Last events"
+    subtitle = ""
+
+
+
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+
+
+    
+
+
+####################################################################################
+
+
+[Languages]
+[Languages.en]
+languageCode = "en"
+LanguageName = "EN"
+weight = 1
+copyright = "Copyright (c) 1998 - 2017, B.USOC"
+title = "B.USOC - Belgian User Support and Operations Centre"
+
+[[Languages.en.menu.main]]
+name = "Home"
+pre = ""
+weight = 1
+identifier = "home"
+url = "/"
+
+
+
+[[Languages.en.menu.main]]
+name = "News"
+pre = ""
+weight = 2
+identifier = "news"
+url = "/news/"
+
+
+
+
+[[Languages.en.menu.main]]
+name = "Projects"
+weight = 3
+identifier = "projects"
+url = "/projects/projects-index/"
+pre = ""
+
+
+[[Languages.en.menu.main]]
+name = "Contact"
+identifier = "contacts"
+weight = 4
+url = "/contacts/"
+
+
+[[Languages.en.menu.aboutus]]
+name = "Organization"
+weight = 1
+identifier = "organization"
+url = "/aboutus/organization/"
+pre = "/img/aboutus/organisation2.png"
+
+
+[[Languages.en.menu.aboutus]]
+name = "Goals and missions"
+weight = 2
+identifier = "goals"
+url = "/aboutus/goals/"
+pre = "/img/aboutus/goals.png"
+
+[[Languages.en.menu.aboutus]]
+name = "Services"
+weight = 3
+identifier = "services"
+url = "/aboutus/services/"
+pre =    "/img/aboutus/services.png"
+
+[[Languages.en.menu.aboutus]]
+name = "User Home Base"
+weight = 4
+identifier = "uhb"
+url = "/aboutus/uhb/"
+pre =  "/img/aboutus/uhb.png"
+
+
+
+[[Languages.en.menu.aboutus]]
+name = "Responsibilities"
+weight = 6
+identifier = "responsabilities"
+url = "/aboutus/responsibilities/"
+pre =   "/img/aboutus/responsibilities.png"
+
+[[Languages.en.menu.aboutus]]
+name = "History and Evolution"
+weight = 7
+identifier = "history"
+url = "/aboutus/history/"
+pre =   "/img/aboutus/logohistorybusoc.png"
+
+
+
+
+
+
+
+[params.recent_posts]
+    enable = true
+    title = "Latest news"
+    subtitle = ""
+    
+    
+
+
+[params.aboutus]
+    enable = true
+    title = "About us"
+    subtitle = ""
+
+
+#############################################################################################################################
+# Top bar social links menu
+
+
+
+[[Languages.en.menu.topbar]]
+    weight = 2
+    name = "Mail"
+    url = "/contacts/"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[[Languages.en.menu.topbar]]
+    weight = 3
+    name = "Twitter"
+    url = "https://twitter.com/Busoc_official"
+pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[Languages.en.menu.topbar]]
+    weight = 4
+    name = "RSS"
+    url = "/news/index.xml"
+pre = "<i class='fa fa-2x fa-rss'></i>"
+
