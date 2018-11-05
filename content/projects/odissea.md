@@ -78,7 +78,7 @@ The functions of the B.USOC during operations were the following:
 * Display of relevant information related to the mission (timeline, etc)
 * Accommodation of ESA representatives
 
-Collaboration with Scientists
+Collaboration with scientists
 =====================================
 
 In general scientists and representatives of Verhaert and CNES had been present for the critical moments of their experiments. For some experiments (PROMISS – DCCO – NEUROCOG – CARDIOCOG) their presence was required all the time of their experiment run.
