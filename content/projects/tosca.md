@@ -23,34 +23,30 @@ date = "2017-02-27"
                 <tr>
                     <th>Discipline</th>
                     <td>
-                    
+
                             Knowledge management
-                   
+
                     </td>
                 </tr>
                 <tr>
                     <th>Platform</th>
                     <td>
-                      
+
                             International Space Station
-                    
+
                     </td>
                 </tr>
             </tbody>
         </table>
-        
+
 COST actions: COST –ES 10005 (TOSCA) “Towards a more complete assessment of the impact of solar variability on the Earth’s climate”.
 
 
-This action increases the visibility of SOLAR as requested by ESA and allowed the participation of B.USOC to IPCC both as science expert and support to the government review led by BELSPO. This action constitutes also a built in synergy for the different solar science units present at the space pole.
+This action increased the visibility of SOLAR as requested by ESA and allowed the participation of B.USOC to IPCC both as science expert and support to the government review led by BELSPO. 
 
 
-See also 
+See also
 ==============
 
 * [ASTROMAP] (/projects/astromap/)
 * [EANA] (/projects/eana/)
-
-
-
-
