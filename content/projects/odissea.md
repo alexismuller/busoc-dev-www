@@ -114,7 +114,7 @@ Scientific programme
 
 The scientific programme during the OdISSea mission was the most important realized during a Soyuz Taxi-flight. The programme was realized in the US laboratory Destiny for the experiments performed in the MSG and in Russian segment for the other experiments.
 
-The scientific programme had been performed onboard the ISS by Frank De Winne and the Russian cosmonauts. They were also subjects for the life science experiments. The 21 in-flight experiments were implemented by ESA and the Belgian Federal Science Policy Office, in compliance with the applicable Technical requirements. ESA and Belgian Federal Science Policy Office have also developed and manufactured hardware for the experiments.
+The scientific programme had been performed onboard the ISS by Frank De Winne and the Russian cosmonauts. They were also subjects for the life science experiments. The 21 in-flight experiments were implemented by ESA and the Belgian Federal Science Policy Office, in compliance with the applicable technical requirements. ESA and Belgian Federal Science Policy Office had also developed and manufactured hardware for the experiments.
 
 <table class="docutils table table-striped table-bordered table-hover" border="1">
 <colgroup>
