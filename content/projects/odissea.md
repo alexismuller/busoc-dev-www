@@ -1,7 +1,7 @@
 +++
 weight=0
 title = "ODISSEA"
-date = "2018-11-05"
+date = "2018-11-06"
 +++
 
 
@@ -40,9 +40,9 @@ date = "2018-11-05"
             </tbody>
         </table>
 
-European Space Agency (ESA) astronaut Frank De Winne, of Belgian nationality, flew to the International Space Station (ISS) in late October 2002 on board a Russian Soyuz taxi flight. He became the first Belgian to visit the ISS. During the mission, named Odissea, De Winne performed a series of science and technology related experiments on board the ISS.
+European Space Agency (ESA) astronaut Frank De Winne, of Belgian nationality, flew to the International Space Station (ISS) in late October 2002 on board a Russian Soyuz taxi flight. He became the first Belgian to visit the ISS. During the mission, named OdISSea, De Winne performed a series of science and technology related experiments on board the ISS.
 
-Belgian Federal Science Policy Office provided the funding for De Winne's flight and the related experimental programme.
+Belgian Federal Science Policy Office provided the funding for De Winne's flight and the related experimental program.
 
 
 
@@ -56,10 +56,10 @@ OdISSea Mission management (located at ESTEC) in direct interaction with the Bel
 * Top level managerial activities that involved external entities and had a major effect on the relations with other organizations
 * Management of programmatic aspects of the project
 * Strategic directions with respect to ESA/Russian and ESA/NASA coordination
-* Coordination of relationship with the public (press release, etc)
+* Coordination of relationship with the public (press release, etc.)
 * Mission insurance (safety quality insurance of the OdISSea mission payload complement)
 
-ESA Odissea Operations Coordination Team at the Taxi Operations Coordination Centre - TOCC implemented for the occasion in the Erasmus Centre located at the European Space Research and Technology Center- ESTEC (the Netherlands)
+ESA OdISSea Operations Coordination Team at the Taxi Operations Coordination Centre - TOCC was implemented for the occasion in the Erasmus Centre located at the European Space Research and Technology Center- ESTEC (the Netherlands)
 
 Roles and Responsibilities
 ========================================
@@ -75,13 +75,13 @@ The functions of the B.USOC during operations were the following:
 * Acquisition display and storage of ISS telemetry and orbit parameters
 * Acquisition display and storage of audio- video transmissions related to experiments and mission support
 * Acquisition and report of ISS mission status
-* Display of relevant information related to the mission (timeline, etc)
+* Display of relevant information related to the mission (timeline, etc.)
 * Accommodation of ESA representatives
 
 Collaboration with scientists
 =====================================
 
-In general scientists and representatives of Verhaert and CNES had been present for the critical moments of their experiments. For some experiments (PROMISS – DCCO – NEUROCOG – CARDIOCOG) their presence was required all the time of their experiment run.
+In general scientists and representatives of Qinetiq Space and CNES had been present for the critical moments of their experiments. For some experiments (PROMISS – DCCO – NEUROCOG – CARDIOCOG) their presence was required all the time of their experiment run.
 
 The interventions made by the scientists, technical representatives and B.USOC operators consisted mainly of:
 
@@ -109,12 +109,12 @@ The B.USOC made a 19 minutes video film on the mission itself as well as on the 
 
 After the mission, an educational video tape was made by the Science Policy Office with contributions from the B.USOC.
 
-Scientific programme
+Scientific program
 ===========================
 
-The scientific programme during the OdISSea mission was the most important realized during a Soyuz Taxi-flight. The programme was realized in the US laboratory Destiny for the experiments performed in the MSG and in Russian segment for the other experiments.
+The scientific program during the OdISSea mission was the most important realized during a Soyuz Taxi-flight. The program was realized in the US laboratory Destiny for the experiments performed in the MSG and in Russian segment for the other experiments.
 
-The scientific programme had been performed onboard the ISS by Frank De Winne and the Russian cosmonauts. They were also subjects for the life science experiments. The 21 in-flight experiments were implemented by ESA and the Belgian Federal Science Policy Office, in compliance with the applicable technical requirements. ESA and Belgian Federal Science Policy Office had also developed and manufactured hardware for the experiments.
+The scientific program had been performed onboard the ISS by Frank De Winne and the Russian cosmonauts. They were also subjects for the life science experiments. The 21 in-flight experiments were implemented by ESA and the Belgian Federal Science Policy Office, in compliance with the applicable technical requirements. ESA and Belgian Federal Science Policy Office had also developed and manufactured hardware for the experiments.
 
 <table class="docutils table table-striped table-bordered table-hover" border="1">
 <colgroup>
