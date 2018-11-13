@@ -1,2 +1,2 @@
-Dernières modifications en ligne sur le site web "hugo" de développement : 5/11/2018 14:28
-- fichier qb50
+﻿Dernières modifications en ligne sur le site web "hugo" de développement : 13/11/2018 10:49
+- fichiers projets : pericles - odissea -cubist - smd  
