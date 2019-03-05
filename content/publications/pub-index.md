@@ -1,7 +1,7 @@
 +++
 weight=10
 title = "Publications"
-date = "2017-09-21"
+date = "2019-03-05"
 +++
 We have made an inventory of the B.USOC authors publications from 2001 until now and you can access this [here] (/media/documents/_PublicationsInventoryBUSOC.pdf) .
 
@@ -133,6 +133,7 @@ Implication for Earth Observations from the ISS”] (/media/documents/publicatio
 
 [High rate data broker for FSL operations] (/media/documents/publications/2018/IAC-18,B6,4-B3.4,x47459.brief.pdf)
 
+[SOLAR, 9 years of operations as external payload on the ISS: The evolution of the operational concept](/media/documents/publications/2018/6.2018-2630.pdf)
 
 
 
