@@ -5,6 +5,8 @@ date = "2019-03-05"
 +++
 We have made an inventory of the B.USOC authors publications from 2001 until now and you can access this [here] (/media/documents/_PublicationsInventoryBUSOC.pdf) .
 
+A list of B.USOC publications is also available on [orfeo from KBR](https://orfeo.kbr.be/discover?scope=internal%2F1&query=BUSOC&submit=&filtertype_0=author&filter_0=&filter_relational_operator_0=contains&rpp=10&search_bitstreams=all)
+
 2001
 =======
 
@@ -55,18 +57,18 @@ from the International Space Station.](/media/documents/publications/2009/49_Mul
 2010
 ===========
 
-[Aspects of Dedicated operator Training: Experiences from 
+[Aspects of Dedicated operator Training: Experiences from
 Erasmus USOC and B.USOC](/media/documents/publications/2010/6_2E2010-2224.pdf)
 
-[SOLAR Payload Operations: Achieving Flexibility to 
+[SOLAR Payload Operations: Achieving Flexibility to
 Support a Long Term Science Mission] (/media/documents/publications/2010/SOLAR Payload operations_SpacOPs2010.pdf)
 
-[Successful PCDF PROTEIN Mission in ISS 
+[Successful PCDF PROTEIN Mission in ISS
 after Meticulous Preparation and On the fly Flexibility](/media/documents/publications/2010/successful pcdf protein mission in iss.pdf)
 
 [Knowledge Management Tools Downstream Space Operations: The ULISSE Project] (/media/documents/publications/2010/6_2E2010-2357.pdf)
 
-[Experience of an External Payload on the ISS : the SOLAR Payload, 
+[Experience of an External Payload on the ISS : the SOLAR Payload,
 Implication for Earth Observations from the ISS”] (/media/documents/publications/2010/CXNL_10a04_865992.pdf)
 
 [ISS Payload Operations and Support – Experience and Lessons Learned By Erasmus USOC] (/media/documents/publications/2010/6_2E2010-2059.pdf)
@@ -134,10 +136,3 @@ Implication for Earth Observations from the ISS”] (/media/documents/publicatio
 [High rate data broker for FSL operations] (/media/documents/publications/2018/IAC-18,B6,4-B3.4,x47459.brief.pdf)
 
 [SOLAR, 9 years of operations as external payload on the ISS: The evolution of the operational concept](/media/documents/publications/2018/6.2018-2630.pdf)
-
-
-
-
-
-
-
